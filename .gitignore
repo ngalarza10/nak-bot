@@ -28,6 +28,14 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 .vs/
-token.md
 #Nuget packages folder
 packages/
+package-lock.json
+.env
+build/*
+*.sqlite
+node_modules
+*.tgz
+
+# src/Migrations/
+ormconfig.json
